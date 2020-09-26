@@ -805,100 +805,6 @@ MSOP&lt;br&gt;
 <text x="0" y="-1.651" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;VALUE</text>
 <circle x="-1.524" y="1.778" radius="0.254" width="0" layer="21"/>
 </package>
-<package name="QFN32_4X4_SIL">
-<smd name="1" x="-2.05" y="1.4" dx="0.2" dy="0.7" layer="1" rot="R270"/>
-<smd name="2" x="-2.05" y="1" dx="0.2" dy="0.7" layer="1" rot="R270"/>
-<smd name="3" x="-2.05" y="0.6" dx="0.2" dy="0.7" layer="1" rot="R270"/>
-<smd name="4" x="-2.05" y="0.2" dx="0.2" dy="0.7" layer="1" rot="R270"/>
-<smd name="5" x="-2.05" y="-0.2" dx="0.2" dy="0.7" layer="1" rot="R270"/>
-<smd name="6" x="-2.05" y="-0.6" dx="0.2" dy="0.7" layer="1" rot="R270"/>
-<smd name="7" x="-2.05" y="-1" dx="0.2" dy="0.7" layer="1" rot="R270"/>
-<smd name="8" x="-2.05" y="-1.4" dx="0.2" dy="0.7" layer="1" rot="R270"/>
-<smd name="9" x="-1.4" y="-2.05" dx="0.2" dy="0.7" layer="1" rot="R180"/>
-<smd name="10" x="-1" y="-2.05" dx="0.2" dy="0.7" layer="1" rot="R180"/>
-<smd name="11" x="-0.6" y="-2.05" dx="0.2" dy="0.7" layer="1" rot="R180"/>
-<smd name="12" x="-0.2" y="-2.05" dx="0.2" dy="0.7" layer="1" rot="R180"/>
-<smd name="13" x="0.2" y="-2.05" dx="0.2" dy="0.7" layer="1" rot="R180"/>
-<smd name="14" x="0.6" y="-2.05" dx="0.2" dy="0.7" layer="1" rot="R180"/>
-<smd name="15" x="1" y="-2.05" dx="0.2" dy="0.7" layer="1" rot="R180"/>
-<smd name="16" x="1.4" y="-2.05" dx="0.2" dy="0.7" layer="1" rot="R180"/>
-<smd name="17" x="2.05" y="-1.4" dx="0.2" dy="0.7" layer="1" rot="R270"/>
-<smd name="18" x="2.05" y="-1" dx="0.2" dy="0.7" layer="1" rot="R270"/>
-<smd name="19" x="2.05" y="-0.6" dx="0.2" dy="0.7" layer="1" rot="R270"/>
-<smd name="20" x="2.05" y="-0.2" dx="0.2" dy="0.7" layer="1" rot="R270"/>
-<smd name="21" x="2.05" y="0.2" dx="0.2" dy="0.7" layer="1" rot="R270"/>
-<smd name="22" x="2.05" y="0.6" dx="0.2" dy="0.7" layer="1" rot="R270"/>
-<smd name="23" x="2.05" y="1" dx="0.2" dy="0.7" layer="1" rot="R270"/>
-<smd name="24" x="2.05" y="1.4" dx="0.2" dy="0.7" layer="1" rot="R270"/>
-<smd name="25" x="1.4" y="2.05" dx="0.2" dy="0.7" layer="1" rot="R180"/>
-<smd name="26" x="1" y="2.05" dx="0.2" dy="0.7" layer="1" rot="R180"/>
-<smd name="27" x="0.6" y="2.05" dx="0.2" dy="0.7" layer="1" rot="R180"/>
-<smd name="28" x="0.2" y="2.05" dx="0.2" dy="0.7" layer="1" rot="R180"/>
-<smd name="29" x="-0.2" y="2.05" dx="0.2" dy="0.7" layer="1" rot="R180"/>
-<smd name="30" x="-0.6" y="2.05" dx="0.2" dy="0.7" layer="1" rot="R180"/>
-<smd name="31" x="-1" y="2.05" dx="0.2" dy="0.7" layer="1" rot="R180"/>
-<smd name="32" x="-1.4" y="2.05" dx="0.2" dy="0.7" layer="1" rot="R180"/>
-<smd name="33" x="0" y="0" dx="3" dy="3" layer="1" cream="no"/>
-<wire x1="-2.3876" y1="-2.3876" x2="-1.8288" y2="-2.3876" width="0.1524" layer="21"/>
-<wire x1="2.3876" y1="-2.3876" x2="2.3876" y2="-1.8288" width="0.1524" layer="21"/>
-<wire x1="2.3876" y1="2.3876" x2="1.8288" y2="2.3876" width="0.1524" layer="21"/>
-<wire x1="-2.3876" y1="2.3876" x2="-2.3876" y2="1.8288" width="0.1524" layer="21"/>
-<wire x1="-2.3876" y1="-1.8288" x2="-2.3876" y2="-2.3876" width="0.1524" layer="21"/>
-<wire x1="1.8288" y1="-2.3876" x2="2.3876" y2="-2.3876" width="0.1524" layer="21"/>
-<wire x1="2.3876" y1="1.8288" x2="2.3876" y2="2.3876" width="0.1524" layer="21"/>
-<wire x1="-1.8288" y1="2.3876" x2="-2.3876" y2="2.3876" width="0.1524" layer="21"/>
-<polygon width="0.0254" layer="21">
-<vertex x="-1.1905" y="-2.654"/>
-<vertex x="-1.1905" y="-2.908"/>
-<vertex x="-0.8095" y="-2.908"/>
-<vertex x="-0.8095" y="-2.654"/>
-</polygon>
-<polygon width="0.0254" layer="21">
-<vertex x="2.908" y="-0.0095"/>
-<vertex x="2.908" y="-0.3905"/>
-<vertex x="2.654" y="-0.3905"/>
-<vertex x="2.654" y="-0.0095"/>
-</polygon>
-<polygon width="0.0254" layer="21">
-<vertex x="-0.7905" y="2.654"/>
-<vertex x="-0.7905" y="2.908"/>
-<vertex x="-0.4095" y="2.908"/>
-<vertex x="-0.4095" y="2.654"/>
-</polygon>
-<text x="-3.6068" y="1.3462" size="1.27" layer="21" ratio="6" rot="SR0">*</text>
-<text x="-1.7272" y="-0.635" size="1.27" layer="21" ratio="6" rot="SR0">&gt;Value</text>
-<polygon width="0.0254" layer="31">
-<vertex x="-1.4" y="1.4"/>
-<vertex x="-1.4" y="0.1"/>
-<vertex x="-0.1" y="0.1"/>
-<vertex x="-0.1" y="1.4"/>
-</polygon>
-<polygon width="0.0254" layer="31">
-<vertex x="-1.4" y="-0.1"/>
-<vertex x="-1.4" y="-1.4"/>
-<vertex x="-0.1" y="-1.4"/>
-<vertex x="-0.1" y="-0.1"/>
-</polygon>
-<polygon width="0.0254" layer="31">
-<vertex x="0.1" y="1.4"/>
-<vertex x="0.1" y="0.1"/>
-<vertex x="1.4" y="0.1"/>
-<vertex x="1.4" y="1.4"/>
-</polygon>
-<polygon width="0.0254" layer="31">
-<vertex x="0.1" y="-0.1"/>
-<vertex x="0.1" y="-1.4"/>
-<vertex x="1.4" y="-1.4"/>
-<vertex x="1.4" y="-0.1"/>
-</polygon>
-<wire x1="-2.0066" y1="0.7366" x2="-0.7366" y2="2.0066" width="0.1524" layer="51"/>
-<wire x1="-2.0066" y1="-2.0066" x2="2.0066" y2="-2.0066" width="0.1524" layer="51"/>
-<wire x1="2.0066" y1="-2.0066" x2="2.0066" y2="2.0066" width="0.1524" layer="51"/>
-<wire x1="2.0066" y1="2.0066" x2="-2.0066" y2="2.0066" width="0.1524" layer="51"/>
-<wire x1="-2.0066" y1="2.0066" x2="-2.0066" y2="-2.0066" width="0.1524" layer="51"/>
-<text x="-2.032" y="0.9652" size="1.27" layer="51" ratio="6" rot="SR0">*</text>
-<text x="-3.2766" y="-0.635" size="1.27" layer="25" ratio="6" rot="SR0">&gt;Name</text>
-</package>
 </packages>
 <symbols>
 <symbol name="ESPLORA_SHIELD">
@@ -1314,47 +1220,6 @@ MSOP&lt;br&gt;
 <pin name="STX" x="12.7" y="-5.08" length="short" rot="R180"/>
 <text x="-10.16" y="5.334" size="1.778" layer="95" font="vector">&gt;Name</text>
 <text x="-10.16" y="-7.874" size="1.778" layer="96" font="vector" align="top-left">&gt;Value</text>
-</symbol>
-<symbol name="EFR32MG21A020F1024IM32">
-<pin name="PC00" x="2.54" y="0" length="middle"/>
-<pin name="PC01" x="2.54" y="-2.54" length="middle"/>
-<pin name="PC02" x="2.54" y="-5.08" length="middle"/>
-<pin name="PC03" x="2.54" y="-7.62" length="middle"/>
-<pin name="PC04" x="2.54" y="-10.16" length="middle"/>
-<pin name="PC05" x="2.54" y="-12.7" length="middle"/>
-<pin name="HFXTAL_I" x="2.54" y="-15.24" length="middle" direction="in"/>
-<pin name="HFXTAL_O" x="2.54" y="-17.78" length="middle" direction="out"/>
-<pin name="RESETN" x="2.54" y="-20.32" length="middle" direction="in"/>
-<pin name="RFVDD" x="2.54" y="-22.86" length="middle" direction="pwr"/>
-<pin name="RFVSS" x="2.54" y="-25.4" length="middle" direction="pwr"/>
-<pin name="RF2G4_IO2" x="2.54" y="-27.94" length="middle"/>
-<pin name="RF2G4_IO1" x="2.54" y="-30.48" length="middle"/>
-<pin name="PAVDD" x="2.54" y="-33.02" length="middle" direction="pwr"/>
-<pin name="PB01" x="2.54" y="-35.56" length="middle"/>
-<pin name="PB00" x="2.54" y="-38.1" length="middle"/>
-<pin name="PA00" x="58.42" y="-40.64" length="middle" rot="R180"/>
-<pin name="PA01" x="58.42" y="-38.1" length="middle" rot="R180"/>
-<pin name="PA02" x="58.42" y="-35.56" length="middle" rot="R180"/>
-<pin name="PA03" x="58.42" y="-33.02" length="middle" rot="R180"/>
-<pin name="PA04" x="58.42" y="-30.48" length="middle" rot="R180"/>
-<pin name="PA05" x="58.42" y="-27.94" length="middle" rot="R180"/>
-<pin name="PA06" x="58.42" y="-25.4" length="middle" rot="R180"/>
-<pin name="DECOUPLE" x="58.42" y="-22.86" length="middle" direction="out" rot="R180"/>
-<pin name="DVDD" x="58.42" y="-20.32" length="middle" direction="pwr" rot="R180"/>
-<pin name="AVDD" x="58.42" y="-17.78" length="middle" direction="pwr" rot="R180"/>
-<pin name="IOVDD" x="58.42" y="-15.24" length="middle" direction="pwr" rot="R180"/>
-<pin name="PD04" x="58.42" y="-12.7" length="middle" rot="R180"/>
-<pin name="PD03" x="58.42" y="-10.16" length="middle" rot="R180"/>
-<pin name="PD02" x="58.42" y="-7.62" length="middle" rot="R180"/>
-<pin name="PD01" x="58.42" y="-5.08" length="middle" rot="R180"/>
-<pin name="PD00" x="58.42" y="-2.54" length="middle" rot="R180"/>
-<pin name="VSS" x="58.42" y="0" length="middle" direction="pwr" rot="R180"/>
-<wire x1="7.62" y1="5.08" x2="7.62" y2="-45.72" width="0.1524" layer="94"/>
-<wire x1="7.62" y1="-45.72" x2="53.34" y2="-45.72" width="0.1524" layer="94"/>
-<wire x1="53.34" y1="-45.72" x2="53.34" y2="5.08" width="0.1524" layer="94"/>
-<wire x1="53.34" y1="5.08" x2="7.62" y2="5.08" width="0.1524" layer="94"/>
-<text x="25.7556" y="9.1186" size="2.0828" layer="95" ratio="6" rot="SR0">&gt;Name</text>
-<text x="25.1206" y="6.5786" size="2.0828" layer="96" ratio="6" rot="SR0">&gt;Value</text>
 </symbol>
 </symbols>
 <devicesets>
@@ -2010,59 +1875,6 @@ Footprint proven. Spark Fun Electronics Camera SKU : SEN-00637, Mating Connector
 <technologies>
 <technology name="">
 <attribute name="PROD_ID" value="IC-09981"/>
-</technology>
-</technologies>
-</device>
-</devices>
-</deviceset>
-<deviceset name="EFR32MG21A020F1024IM32" prefix="U">
-<gates>
-<gate name="A" symbol="EFR32MG21A020F1024IM32" x="0" y="0"/>
-</gates>
-<devices>
-<device name="" package="QFN32_4X4_SIL">
-<connects>
-<connect gate="A" pin="AVDD" pad="26"/>
-<connect gate="A" pin="DECOUPLE" pad="24"/>
-<connect gate="A" pin="DVDD" pad="25"/>
-<connect gate="A" pin="HFXTAL_I" pad="7"/>
-<connect gate="A" pin="HFXTAL_O" pad="8"/>
-<connect gate="A" pin="IOVDD" pad="27"/>
-<connect gate="A" pin="PA00" pad="17"/>
-<connect gate="A" pin="PA01" pad="18"/>
-<connect gate="A" pin="PA02" pad="19"/>
-<connect gate="A" pin="PA03" pad="20"/>
-<connect gate="A" pin="PA04" pad="21"/>
-<connect gate="A" pin="PA05" pad="22"/>
-<connect gate="A" pin="PA06" pad="23"/>
-<connect gate="A" pin="PAVDD" pad="14"/>
-<connect gate="A" pin="PB00" pad="16"/>
-<connect gate="A" pin="PB01" pad="15"/>
-<connect gate="A" pin="PC00" pad="1"/>
-<connect gate="A" pin="PC01" pad="2"/>
-<connect gate="A" pin="PC02" pad="3"/>
-<connect gate="A" pin="PC03" pad="4"/>
-<connect gate="A" pin="PC04" pad="5"/>
-<connect gate="A" pin="PC05" pad="6"/>
-<connect gate="A" pin="PD00" pad="32"/>
-<connect gate="A" pin="PD01" pad="31"/>
-<connect gate="A" pin="PD02" pad="30"/>
-<connect gate="A" pin="PD03" pad="29"/>
-<connect gate="A" pin="PD04" pad="28"/>
-<connect gate="A" pin="RESETN" pad="9"/>
-<connect gate="A" pin="RF2G4_IO1" pad="13"/>
-<connect gate="A" pin="RF2G4_IO2" pad="12"/>
-<connect gate="A" pin="RFVDD" pad="10"/>
-<connect gate="A" pin="RFVSS" pad="11"/>
-<connect gate="A" pin="VSS" pad="33"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="BUILT_BY" value="EMA_Jessica" constant="no"/>
-<attribute name="COPYRIGHT" value="Copyright (C) 2018 Accelerated Designs. All rights reserved" constant="no"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="EFR32MG21A020F1024IM32" constant="no"/>
-<attribute name="SOURCELIBRARY" value="Silicon_Labs_2019-10-28" constant="no"/>
-<attribute name="VENDOR" value="Silicon Labs" constant="no"/>
 </technology>
 </technologies>
 </device>
